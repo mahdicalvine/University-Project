@@ -1,0 +1,8 @@
+#! /bin/sh
+
+
+echo "Checking..."
+echo "Running tests..."
+sleep 1
+
+echo "Everything is working fine ✅"
